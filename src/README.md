@@ -3,7 +3,7 @@
 A responsive weather application built with **React.js** that shows real-time weather data for any city in the world.
 
 ## 🚀 Live Demo
-[Click here to view](YOUR_DEPLOYED_LINK)
+[Click here to view](cheery-taiyaki-e28e21.netlify.app)
 
 ## 📸 Features
 - 🔍 Search weather by city name
